@@ -1,5 +1,4 @@
-# Anti-Polluter-Scooter
-A LINKED-LIST PROJECT
+# Anti-Polluter-Scooter (A LINKED-LIST PROJECT)
 
 HackBeanPot project
 
